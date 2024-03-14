@@ -3,5 +3,6 @@ git add
 git commit -m 'Added my project'
 git remote add origin git@github.com:sammy/my-new-project.git
 git push  origin main
+thank you 
 
 
